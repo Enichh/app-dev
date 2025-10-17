@@ -62,7 +62,6 @@ I love experimenting, learning, and polishing both the **functionality** and **d
 
 ---
 
----
 
 ## 🐱 Fun Facts
 
