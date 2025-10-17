@@ -1,32 +1,48 @@
-# Hello world!
-![Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-I am Enoch Gabriel M Astor BSIT A505
-## My Projects
+```c
+// Hello World!
+#include <stdio.h>
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
+Hi, I'm Enoch Gabriel M. Astor, a BSIT A505 student.
+I enjoy building projects, learning new tech, and sharing the things I love — from coding to musicals and great TV shows.
+
+🚀 My Projects
+Here are some of the apps and tools I've worked on:
 - [STI-DigiLibrary](https://github.com/Enichh/STI-DigiLibrary)
 - [Enoch Movies](https://enochmovies.netlify.app/)
 - [STI Grade Calculator](https://stigradecalculator.netlify.app/)
 - [Grade Calculator STI](https://gradecalculatorsti.netlify.app/)
 - [Money Tracker](https://moneytrackerenoch.netlify.app/)
-## Why I love Hamilton the Musical
-Hamilton is a revolutionary musical that brilliantly combines hip-hop, R&B, and traditional show tunes to tell the story of American founding father Alexander Hamilton. The diverse cast, powerful lyrics by Lin-Manuel Miranda, and innovative storytelling make it a masterpiece that brings history to life in an unforgettable way.
+Each project helped me practice problem-solving, design, and coding skills while making something useful.
+
+🎭 Why I Love Hamilton
+Hamilton is a musical that mixes hip-hop, R&B, and classic show tunes to tell the story of Alexander Hamilton.
+What makes it special to me:
+- A diverse cast that brings history to life
+- Powerful lyrics by Lin-Manuel Miranda
+- A fresh, creative way of telling a historical story
+It's not just history — it feels alive, emotional, and unforgettable.
 ![Hamilton GIF](https://media.giphy.com/media/9rJQoNtUVVTDG/giphy.gif)
----
-# app-dev
-My first repository
-'
-## My Favorite Series: Breaking Bad
-### Why I Love It
-**Breaking Bad** is an iconic television series that masterfully explores the transformation of Walter White from a humble chemistry teacher to a ruthless drug kingpin.
-### Key Features
-- **Outstanding Acting**: Bryan Cranston and Aaron Paul deliver unforgettable performances
-- **Gripping Plot**: Each episode builds tension and keeps you on the edge of your seat
-- **Cinematography**: Visually stunning with creative camera work
-- **Character Development**: Deep, complex characters that evolve throughout the series
-### Main Characters
-1. *Walter White* - The protagonist and chemistry teacher turned meth manufacturer
-2. *Jesse Pinkman* - Walter's former student and partner
-3. *Skyler White* - Walter's wife
-4. *Hank Schrader* - Walter's brother-in-law and DEA agent
-### My Rating
+
+💻 My First Repository
+app-dev — where it all started. This was my first step into coding projects and version control.
+
+📺 My Favorite Series: Breaking Bad
+Breaking Bad is a show about Walter White, a chemistry teacher who slowly transforms into a drug kingpin. It's intense, smart, and unforgettable.
+What Makes It Great
+- Acting: Bryan Cranston and Aaron Paul are incredible
+- Story: Every episode builds suspense and keeps you hooked
+- Cinematography: Creative and stylish shots
+- Characters: Deep, complex, and always evolving
+Main Characters
+- Walter White – Teacher turned meth producer
+- Jesse Pinkman – Walter's ex-student and partner
+- Skyler White – Walter's wife
+- Hank Schrader – DEA agent and Walter's brother-in-law
+My Rating
 ⭐⭐⭐⭐⭐ (5/5)
-> "I am the one who knocks!" - Walter White
+> "I am the one who knocks!" – Walter White
