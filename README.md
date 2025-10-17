@@ -16,20 +16,14 @@ I love experimenting, learning, and polishing both the **functionality** and **d
 
 ## 👨‍💻 About Me
 
-- Skilled in **PHP, CSS, SMTP, and Dompdf** for web apps and PDF generation  
+- Skilled in **Restful API's, HTML/CSS/Javascript** for web apps and PDF generation  
 - Interested in **UI/UX design principles** and creating smooth user experiences  
 - Resourceful and persistent when debugging and refining solutions  
-- Always experimenting and improving my craft 
+- Always experimenting and improving my craft
+- 
 
 ---
 
-Got it — I see what you’re aiming for. Right now, your **Projects** section is split into two styles: GitHub links with icons, and then plain text Netlify links. To make the flow more polished and consistent, you can unify them into a clean, scannable list with short descriptions. Here’s a reorganized version:
-
----
-
-Perfect — thanks for sharing the full picture! Since you’ve got both **GitHub repositories** and **live Netlify projects**, we can make your **Projects** section really shine by organizing everything into two neat groups:  
-
----
 
 ## 💼 My Projects
 
@@ -68,6 +62,18 @@ Perfect — thanks for sharing the full picture! Since you’ve got both **GitHu
 
 ---
 
+---
+
+## 🐱 Fun Facts
+
+- 🎭 Big fan of **Hamilton the musical**  
+- 🐱 I love cats!  
+- 📺 Favorite TV series: **Breaking Bad**  
+
+![Cat GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ1NG5mbXMyZ2RlNnRtcGlvZWJndnRuY2pmbncxbGx2d3J0dWJnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vQSQ3cNXuDGo/giphy.gif)
+
+---
+
 
 
 ## 🎭 Hamilton
@@ -83,7 +89,7 @@ It’s a revolutionary piece of art that tells Alexander Hamilton’s story thro
 
 *"I am not throwing away my shot!"* 🎶  
 
-![Hamilton GIF](https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif)
+![Hamilton GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZsa2JqNzR0ZnpvaG42eTF3cm15NncxaWszd2twb2V3Zm1nZjUzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUqa9cPVAYIKu6xWq6/giphy.gif)
 
 ---
 
@@ -100,28 +106,9 @@ One of the greatest TV shows ever made — a masterclass in storytelling, charac
 
 *"I am the one who knocks."* 💀  
 
-![Breaking Bad GIF](https://media.giphy.com/media/VeqlLV3MX7gjdQJIkk/giphy.gif)
+![Breaking Bad GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZ6Y3Ztd24waW1kazhzbDNrcmNkZHFsMndxY3pmZGRldjJrc3JxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PwLYfy05MBVVm/giphy.gif)
 
----
 
-## 🐱 Fun Facts
-
-- 🎭 Big fan of **Hamilton the musical**  
-- 🐱 I love cats!  
-- 📺 Favorite TV series: **Breaking Bad**  
-
-![Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
----
-
-## 📘 My First Repository
-
-This is where it all started — my first repository documenting my journey into:  
-- Version control with Git  
-- GitHub workflows  
-- Markdown formatting  
-- Collaborative development  
-- Building and documenting projects  
 
 ---
 
