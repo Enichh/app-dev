@@ -20,7 +20,7 @@ I love experimenting, learning, and polishing both the **functionality** and **d
 - Interested in **UI/UX design principles** and creating smooth user experiences  
 - Resourceful and persistent when debugging and refining solutions  
 - Always experimenting and improving my craft
-- 
+
 
 ---
 
