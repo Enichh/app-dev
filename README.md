@@ -31,22 +31,4 @@ It's not just history — it feels alive, emotional, and unforgettable.
 💻 My First Repository
 app-dev — where it all started. This was my first step into coding projects and version control.
 
-📺 My Favorite Series: Breaking Bad
-Breaking Bad is a show about Walter White, a chemistry teacher who slowly transforms into a drug kingpin. It's intense, smart, and unforgettable.
 
-What Makes It Great
-- Acting: Bryan Cranston and Aaron Paul are incredible
-- Story: Every episode builds suspense and keeps you hooked
-- Cinematography: Creative and stylish shots
-- Characters: Deep, complex, and always evolving
-
-Main Characters
-- Walter White – Teacher turned meth producer
-- Jesse Pinkman – Walter's ex-student and partner
-- Skyler White – Walter's wife
-- Hank Schrader – DEA agent and Walter's brother-in-law
-
-My Rating
-⭐⭐⭐⭐⭐ (5/5)
-
-> "I am the one who knocks!" – Walter White
