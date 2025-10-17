@@ -31,7 +31,7 @@ I love experimenting, learning, and polishing both the **functionality** and **d
 - [**enochvert**](https://github.com/Enichh/enochvert) – File conversion
 - [**enichai**](https://github.com/Enichh/enichai) – AI- repo  
 - [**STI-Queueing**](https://github.com/Enichh/STI-Queueing) – a project tackling queueing system
-- [**App Development Repository**]((https://github.com/Enichh/STI-DigiLibrary)) – ONGOING PROJECT FOR APPDEV  
+- [**App Development Repository**](https://github.com/Enichh/STI-DigiLibrary) – ONGOING PROJECT FOR APPDEV  
 
 ---
 
